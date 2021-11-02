@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivitiesAndIntentsChallengeAttempt2</string>
+    <string name="passage_1">Passage 1</string>
+    <string name="this_is_passage_1">this is passage 1</string>
+    <string name="this_is_passage_3">this is passage 3</string>
+    <string name="this_is_passage_2">this is passage 2</string>
+    <string name="passage_2">Passage 2</string>
+    <string name="passage_3">Passage 3</string>
+    <string name="second_activity_title">Second Activity</string>
+</resources>
